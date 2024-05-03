@@ -7,5 +7,6 @@ public class PrintColors {
         System.out.println(green);
         System.out.println(blue);
 
+
     }
 }
